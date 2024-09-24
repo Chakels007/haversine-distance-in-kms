@@ -1,6 +1,6 @@
 {
   "name": "haversine-distance-in-kms",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple package to calculate haversine distance and find the closest driver to a pickup location.",
   "main": "index.js",
   "scripts": {
