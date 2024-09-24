@@ -1,10 +1,11 @@
 {
   "name": "haversine-distance-in-kms",
   "version": "1.0.0",
-  "description": "Find the distance between two locations in earth",
+  "description": "A simple package to calculate haversine distance and find the closest driver to a pickup location.",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "start": "node index.js",
+    "test": "echo \"No test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -12,7 +13,11 @@
   },
   "keywords": [
     "haversine",
-    "distance"
+    "distance",
+    "geolocation",
+    "drivers",
+    "wordpress",
+    "npm-package"
   ],
   "author": "Gowtham Sriram",
   "license": "ISC",
