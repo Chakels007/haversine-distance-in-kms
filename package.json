@@ -1,0 +1,23 @@
+{
+  "name": "haversine-distance-in-kms",
+  "version": "1.0.0",
+  "description": "Find the distance between two locations in earth",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chakels007/haversine-distance-in-kms.git"
+  },
+  "keywords": [
+    "haversine",
+    "distance"
+  ],
+  "author": "Gowtham Sriram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chakels007/haversine-distance-in-kms/issues"
+  },
+  "homepage": "https://github.com/Chakels007/haversine-distance-in-kms#readme"
+}
